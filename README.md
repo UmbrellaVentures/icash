@@ -5,7 +5,7 @@ http://www.icashpay.io
 
 Copyright (c) 2009-2015 Bitcoin Core Developers
 
-Copyright (c) 2014-2015 iCash Core Developers
+Copyright (c) 2014-2016 iCash Core Developers
 
 
 What is iCash?
